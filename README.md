@@ -1,5 +1,5 @@
 # fly
 
-# website design for airline service
+# Website design for airline service
 
-# made using react js
+# made using React js

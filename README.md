@@ -2,4 +2,4 @@
 
 # Website design for airline service
 
-# made using React js
+# made using React js and styled by Sass
